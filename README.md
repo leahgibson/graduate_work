@@ -9,4 +9,4 @@ The following file names include code that I made to complete homework assignmen
 
 
 
-I will upload my masters thesis and corresponding code after June 24 when I have defended.
+I will upload my masters thesis and corresponding code in mid July.
